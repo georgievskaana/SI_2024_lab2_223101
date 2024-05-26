@@ -25,5 +25,5 @@ F || F || F  koga price <= 300 i discount <= 0 i prvata ne e 0
 3. Gi izbrojav predikatnite jazli, pa i regionite na grafot za da ja odredam ciklomatskata kompleksnost.
 4. Napisav test cases za da gi opfatam site slucai (Every Branch).
 5. Gi ispolniv baranjata za Multiple Condition.
-
+6. so pomos na assert izrazi napraviv testovi. 
 
