@@ -17,3 +17,11 @@ T || X || X  koga price > 300
 F || T || X  koga price <= 300, a discount > 0
 F || F || T  koga price <= 300 i discount <= 0 i prvata cifra na barcode e 0
 F || F || F  koga price <= 300 i discount <= 0 i prvata ne e 0
+### 7. Unit tests
+1. Gi oznaciv jazlite na grafot.
+2. Go nacrtav na Draw.io.
+3. Gi izbrojav predikatnite jazli, pa i regionite na grafot za da ja odredam ciklomatskata kompleksnost.
+4. Napisav test cases za da gi opfatam site slucai (Every Branch).
+5. Gi ispolniv baranjata za Multiple Condition.
+
+
