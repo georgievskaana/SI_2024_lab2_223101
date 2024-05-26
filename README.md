@@ -10,6 +10,8 @@ Ciklomatskata kompleksnost na kodot, presmetana so metodot na broenje predikatni
 -allItems["name",null,200,0.1] , 0 Ovoj test case kje sluzi za da go pokrieme isklucokot za barcode ako e null.
 -allItems["name","12a",200,0.1] , 0  Test primerov sluzi za da se pokrie frlanjeto na exepcion za nevaliden karakter vo barcode.
 -allItems["name","123",200,0] , 0 Go pokrivame posledniot if (sum <= payment), else-ot kje vrati false.
+Kriteriumot Every Path.
+![image](https://github.com/georgievskaana/SI_2024_lab2_223101/assets/138628647/49805b25-81ab-43aa-8e88-199b47b5d301)
 ### 5. Multiple Condition
 if(item.getPrice()>300 && item.getDiscount()>0 && item.getBarcode().charAt(0)=='0')
 2^3 => 8 test cases
